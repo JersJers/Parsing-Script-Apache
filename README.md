@@ -1,7 +1,7 @@
 # Parsing-Script-Apache
 
 
-As an Information Technology Intern at StoryCorps, I spearheaded a project to parse a sample log file from an Apache HTTP Server using Python. This involved extracting and analyzing critical data from extensive log files to identify patterns, trends, and potential issues affecting server performance and security.
+As an Information Technology Intern at StoryCorps, I spearheaded a project to parse a sample log file from an Apache HTTP Server using Python. This involved extracting and analyzing critical data from a extensive log file to identify patterns, trends, and potential issues affecting server performance and security.
 
 Key responsibilities and achievements:
 
